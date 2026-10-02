@@ -1,2 +1,2 @@
-# -LT-C-c-b-n-EPU
-Đáp án giải lập trình C cơ bản EPU
+# -LT_C_CƠ_BẢN_EPU
+Code ôn thi lập trình C cơ bản EPU
